@@ -1,4 +1,4 @@
-#ProjectN - Project Name
+Zaza
 > Homework project Zaza for **MACS, OS101, [FUT](http://freeuni.edu.ge)** - 2015 Fall
 
 #Introduction
