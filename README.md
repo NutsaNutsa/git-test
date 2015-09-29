@@ -6,10 +6,10 @@ intro of the project
 
 ###Developers
 Project is Written by the group of developers:
-- [Developer 1](https://github.com/dev1)
-- [Developer 2](https://github.com/dev2)
-- [Developer 3](https://github.com/dev3)
-- [Developer 4](https://github.com/dev4)
+- [Developer 1](https://github.com/glaba13)
+- [Developer 2](https://github.com/nikoloze)
+- [Developer 3](https://github.com/tripoliati)
+- [Developer 4](https://github.com/NutsaNutsa)
 
 ###External Libs
 Project uses somelib library for some work
